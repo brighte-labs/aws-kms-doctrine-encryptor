@@ -1,6 +1,6 @@
-# PHP-Starter
+# AWS KMS Doctrine Encryptor
 
-Basic requirements for a PHP project
+Custom encryptor module for michaeldegroot/doctrine-encrypt-bundle that uses AWS KMS 
 
 ### Authors
 Chris Young <chris.young@brighte.com.au>

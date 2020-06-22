@@ -1,3 +1,7 @@
 vendor/
 
 *.cache
+
+coverage.xml
+
+encryption_key
