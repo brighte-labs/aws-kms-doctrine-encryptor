@@ -1,5 +1,5 @@
 {
-    "name": "brightecapital/aws-kms-doctrine-encyrptor",
+    "name": "brightecapital/aws-kms-doctrine-encryptor",
     "description": "Custom encryptor for michaeldegroot/doctrine-encrypt-bundle to use AWS KMS for encryption",
     "type": "project",
     "require-dev": {
