@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BrighteCapital\\AwsKmsEncryptor\\": "src/App"
+            "BrighteCapital\\AwsKmsEncryptor\\": "src/"
         }
     },
     "autoload-dev": {
