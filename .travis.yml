@@ -3,6 +3,7 @@ php:
   - 7.3
 install: composer install
 script:
+  - echo "xdebug.mode=coverage" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
   - vendor/bin/phpcs
   - vendor/bin/phpunit --coverage-clover=coverage.xml
 after_script:
